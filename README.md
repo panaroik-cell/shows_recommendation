@@ -12,9 +12,9 @@ The goal of the project is to deliver a solution that would use different AI met
 I am a big fan of TV shows of different genres, length, original language, ... and when searching for another TV show to watch I am spending quite a lot of time to find the right recommendations from which I could choose. This problem occurs couple of time a month.
 
 The problems I am facing when doing manual research and selections are:
-* its time consuming
-* non-mainstream shows are not shown in general recommendations
-* foreign TV shows are less likely to appear in general recommendations
+- its time consuming
+- non-mainstream shows are not shown in general recommendations
+- foreign TV shows are less likely to appear in general recommendations
 
 This recommendation solution would take person's viewving history and do the analysis of that based on following criteria:
 - genre
