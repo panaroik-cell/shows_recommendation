@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The goal of the project is to deliver a tool or solution that would implement different AI methods which would help to discover and suggest TV shows to the user based on his/her viewing history across different streaming platforms and TV showtime tracker application.
+The goal of the project is to deliver a solution that would use different AI methods which would help to discover and suggest TV shows to the user based on his/her viewing history across different streaming platforms and TV showtime tracker application.
 
 
 ## Background
